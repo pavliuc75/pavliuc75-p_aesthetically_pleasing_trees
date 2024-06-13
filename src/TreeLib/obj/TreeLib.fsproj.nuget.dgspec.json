@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nicolai/Desktop/pavliuc75-p_aesthetically_pleasing_trees/src/TreeLib/TreeLib.fsproj": {}
+  },
+  "projects": {
+    "/Users/nicolai/Desktop/pavliuc75-p_aesthetically_pleasing_trees/src/TreeLib/TreeLib.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicolai/Desktop/pavliuc75-p_aesthetically_pleasing_trees/src/TreeLib/TreeLib.fsproj",
+        "projectName": "TreeLib",
+        "projectPath": "/Users/nicolai/Desktop/pavliuc75-p_aesthetically_pleasing_trees/src/TreeLib/TreeLib.fsproj",
+        "packagesPath": "/Users/nicolai/.nuget/packages/",
+        "outputPath": "/Users/nicolai/Desktop/pavliuc75-p_aesthetically_pleasing_trees/src/TreeLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicolai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.203/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.200, )",
+              "generatePathProperty": true
+            },
+            "FsCheck": {
+              "target": "Package",
+              "version": "[2.16.5, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

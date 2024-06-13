@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "43pwmOHocEI21jXFuaPVAhqaSbO/SW4js3aHVyfKYtuEpCxsTYkYN79EbIsMu/BFX8JKNwXyuT4ulA9v1hx6dw==",
+  "success": true,
+  "projectFilePath": "/Users/nicolai/Desktop/pavliuc75-p_aesthetically_pleasing_trees/src/TreeLib/TreeLib.fsproj",
+  "expectedPackageFiles": [
+    "/Users/nicolai/.nuget/packages/fscheck/2.16.5/fscheck.2.16.5.nupkg.sha512",
+    "/Users/nicolai/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512",
+    "/Users/nicolai/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/nicolai/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
